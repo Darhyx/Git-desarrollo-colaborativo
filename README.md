@@ -3,8 +3,7 @@
 Proyecto creado para el curso git
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
+U
 ```bash
 pip install foobar
 ```
